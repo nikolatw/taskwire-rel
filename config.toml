@@ -1,0 +1,22 @@
+baseURL = 'https://taskwire.co'
+languageCode = 'en-us'
+title = 'Taskwire'
+theme = 'terminal'
+paginate = 5
+
+subtitle = "Next generation SSH client"
+keywords = ""
+copyright = ""
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+
+[params]
+  centerTheme = true
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 2
+  fullWidthTheme = true
+[params.logo]
+  logoText = "Taskwire"
+  logoHomeLink = "/"
