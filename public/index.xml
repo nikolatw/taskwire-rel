@@ -19,6 +19,65 @@ Taskwire is an SSH client for the automation maintenance of routine tasks. As de
 &lt;p&gt;Taskwire is an SSH client for the automation maintenance of routine tasks. As deploy or database migration. We invest very much in UX research. We are inspired to deliver the best experience and cover all modern developer&amp;rsquo;s needs. Our target auditory is small startups and freelance developers where developers are doing server administration. The desktop application looks great. Taskwire is written using Flutter (Dart language) and uses Go to do secure SSH keys exchange.&lt;/p&gt;
 &lt;p&gt;Today we finished all v1 release tasks. Kanban boards with MVP labels now have all stickers in the &amp;ldquo;Done&amp;rdquo; column. It is a valuable achievement.&lt;/p&gt;
 &lt;p&gt;You can download &lt;a href=&#34;https://github.com/nikolatw/taskwire-rel/releases/download/v1/taskwire.zip&#34;&gt;Taskwire for macOS&lt;/a&gt; for free.&lt;/p&gt;
+
+  &lt;img src=&#34;/00.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;Your data is secured by a passcode.&lt;/p&gt;
+
+  &lt;img src=&#34;/0.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;You can have the main screen with dozens of tasks. (basically, the task is a few steps that usually form a bash script).&lt;/p&gt;
+
+  &lt;img src=&#34;/1.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;You can add and edit tasks to achieve maximum productivity and automation.&lt;/p&gt;
+
+  &lt;img src=&#34;/2.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;While working on this new task, you can test it against the target machine over SSH.&lt;/p&gt;
+
+  &lt;img src=&#34;/3.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;You can see the output of commands.&lt;/p&gt;
+
+  &lt;img src=&#34;/4.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;And for sure, you can run the task by clicking one button on the task card from the main screen :)&lt;/p&gt;
+
+  &lt;img src=&#34;/5.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;You can have many-many machines to manage with Taskwire. We support mostly any ssh clinets, and most of OS. Linux (Ubuntu, Fedora&amp;hellip; Alpine), MacOS, Android* and Windows.&lt;/p&gt;
+
+  &lt;img src=&#34;/6.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;And security is made easy! You set the passphrase (passcode) once, and after that, Taskwire will create an RSA key for each connection. Securely put it in the authorized keys on your target machine. And that&amp;rsquo;s it!&lt;/p&gt;
+
+  &lt;img src=&#34;/6.5.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;You also can SSH into machine directly to perform one-time task.&lt;/p&gt;
+
+  &lt;img src=&#34;/7.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;SSH terminal supports colors.&lt;/p&gt;
+
+  &lt;img src=&#34;/8.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
+&lt;p&gt;Taskwire SSH client is interactive. You can use the VIM from shell mode.&lt;/p&gt;
+
+  &lt;img src=&#34;/9.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border:#1b5ff3 10px solid;&#34;  /&gt;
+
+
 </content>
     </item>
     
