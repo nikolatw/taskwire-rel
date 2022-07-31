@@ -1,4 +1,4 @@
-baseURL = 'https://taskwire.co'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Taskwire'
 theme = 'terminal'

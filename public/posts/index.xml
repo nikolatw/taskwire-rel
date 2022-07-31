@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Taskwire</title>
-    <link>https://taskwire.co/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Taskwire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2022 19:20:16 +0200</lastBuildDate><atom:link href="https://taskwire.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 19:20:16 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taskwire is released.</title>
-      <link>https://taskwire.co/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Sun, 31 Jul 2022 19:20:16 +0200</pubDate>
       
-      <guid>https://taskwire.co/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Version 1 (public beta) is now released.
 Taskwire is an SSH client for the automation maintenance of routine tasks. As deploy or database migration. We invest very much in UX research. We are inspired to deliver the best experience and cover all modern developer&amp;rsquo;s needs. Our target auditory is small startups and freelance developers where developers are doing server administration. The desktop application looks great. Taskwire is written using Flutter (Dart language) and uses Go to do secure SSH keys exchange.</description>
       <content>&lt;p&gt;Version 1 (public beta) is now released.&lt;/p&gt;
